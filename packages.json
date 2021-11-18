@@ -1,0 +1,22 @@
+[
+  {
+    "package": "gwasrapidd",
+    "url": "https://github.com/ramiromagno/gwasrapidd"
+  },
+  {
+    "package": "quincunx",
+    "url": "https://github.com/ramiromagno/quincunx"
+  },
+  {
+    "package": "wig",
+    "url": "https://github.com/ramiromagno/wig"
+  },
+  {
+    "package": "ensemblr",
+    "url": "https://github.com/ramiromagno/ensemblr"
+  },
+  {
+    "package": "geisha",
+    "url": "https://github.com/ramiromagno/geisha"
+  }
+]
