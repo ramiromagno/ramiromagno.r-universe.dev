@@ -18,5 +18,9 @@
   {
     "package": "geisha",
     "url": "https://github.com/ramiromagno/geisha"
+  },
+  {
+    "package": "grantham",
+    "url": "https://github.com/maialab/grantham"
   }
 ]
