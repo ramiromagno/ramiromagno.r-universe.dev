@@ -22,5 +22,9 @@
   {
     "package": "grantham",
     "url": "https://github.com/maialab/grantham"
+  },
+  {
+    "package": "agvgd",
+    "url": "https://github.com/maialab/agvgd"
   }
 ]
