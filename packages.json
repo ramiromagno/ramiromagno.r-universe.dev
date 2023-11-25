@@ -26,5 +26,9 @@
   {
     "package": "agvgd",
     "url": "https://github.com/maialab/agvgd"
+  },
+  {
+   "package": "protean",
+   "url": "https://github.com/maialab/protean"
   }
 ]
